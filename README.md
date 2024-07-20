@@ -20,7 +20,7 @@
  
 <div align="center"> 
   <a href="mailto:devampatel01@yahoo.com">
-    <img src="https://img.shields.io/badge/Yahoo Mail-410093?style=for-the-badge&logo=#EA4335&logoColor=white" />
+    <img src="https://img.shields.io/badge/Yahoo Mail-410093?style=for-the-badge&logo=EA4335&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
