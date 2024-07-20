@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **A M.S. in Business Analytics and Artificial Intelligence from UT Dallas**
+ 🔭 I’m currently working on **a M.S. in Business Analytics and Artificial Intelligence at UT Dallas**
  
- 🌱 I’m currently learning **about machine learning and the common programming languages in data science**
+ 🌱 I’m currently learning **about machine learning and the programming languages in data science**
 
  
 
