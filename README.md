@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **A M.S. in Business Analytics and Artificial Intelligence from UT Dallas**
  
- 🌱 I’m currently learning Business Analysis and Artificial Intelligence @ The University of Texas at Dallas
+ 🌱 I’m currently learning **about machine learning and the common programming languages in data science**
 
  
 
@@ -33,8 +33,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,r,python,sklearn,mysql," />
 </div>
 
 <br/>
