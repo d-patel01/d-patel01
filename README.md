@@ -1,10 +1,11 @@
-### Hi there 👋, I'm Devam
-#### Data Scientist
+# Hi there 👋, I'm Devam
+## Data Scientist
 I'm currently a student at The University of Texas at Dallas, pursuing a M.S. in Business Analytics and Artificial Intelligence. 
 
 I am passionate about using data and technology to improve people's lives and am eager to contribute my skills to impactful data-driven initiatives.
 
-Skills: Python / SQL / Statistics / Machine Learning
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 - 📫 How to reach me: put email here? 
 
