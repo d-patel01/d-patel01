@@ -12,6 +12,8 @@
  
  🌱 I’m currently learning Business Analysis and Artificial Intelligence @ The University of Texas at Dallas
 
+ 
+
  </div>
  
 <div align="center"> 
