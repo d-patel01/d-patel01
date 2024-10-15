@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **a M.S. in Business Analytics and Artificial Intelligence at UT Dallas**
  
- 🌱 I’m currently learning **about machine learning and the programming languages in data science**
+ 🌱 I’m currently learning **real-world skills for data analytics**
 
  
 
